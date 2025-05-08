@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ridzkaljamil&theme=buddhism&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ridzkaljamil&theme=algolia&column=5&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
