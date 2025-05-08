@@ -86,8 +86,8 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=ridzkaljamil&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ridzkaljamil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="210" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ridzkaljamil&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ridzkaljamil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ridzkaljamil&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
