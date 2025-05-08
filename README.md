@@ -102,15 +102,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridzkaljamil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ridzkaljamil&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h3 align="left">Thank you!👋</h3>
 
 ###
