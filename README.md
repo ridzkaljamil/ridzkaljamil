@@ -14,7 +14,7 @@ Thanks for stopping by, I'd love to connect.
 
 ### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,codeigniter,laravel,react,nodejs,express,nextjs,bootstrap,tailwind,mysql&perline=13" alt="HTML, CSS, JavaScript, PHP, CodeIgniter, Laravel, React, Node.js, Express, Next.js, Bootstrap, Tailwind CSS, MySQL" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,nextjs,bootstrap,tailwind,mysql&perline=13" alt="HTML, CSS, JavaScript, PHP, Laravel, React, Node.js, Express, Next.js, Bootstrap, Tailwind CSS, MySQL" />
 
 ### Contribution Activity
 
